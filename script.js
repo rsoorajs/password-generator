@@ -26,7 +26,7 @@ function generatePassword() {
         password = password + specialChar;
     }
 
-    //for loop that generates random values â€‹â€‹based on length and user-chosen checkboxes
+    //for loop that generates random values based on length and user-chosen checkboxes
     var finalString = ""; 
     for (let i = 0; i < passLength; i++) {
         finalString += password.charAt(Math.floor(Math.random() * password.length));
