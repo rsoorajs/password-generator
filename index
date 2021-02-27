@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <title>Password generator</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+<body>
+
+    <!-- PASSWORD INPUT BEGIN -->
+    <div>
+        <input type="text" id="inpPassword" placeholder="Your password will be displayed here...">
+    </div>
+    <!-- PASSWORD INPUT END -->
+
+    <!-- FORM BEGIN -->
+    <div>
+        <form id="optForm">
+            <h3>Customize your password</h3>
+            <div class="divSelect">
+                <label for="setLength">Password length</label>
+                <br>
+                <select id="setLength">
+                    <option>8</option>
+                    <option>9</option>
+                    <option>10</option>
+                    <option>11</option>
+                    <option>12</option>
+                    <option>13</option>
+                    <option>14</option>
+                    <option>15</option>
+                    <option>16</option>
+                </select>
+            </div>
+            <div class="listCheckbox">
+                <div>
+                    <input type="checkbox" id="inpUppercase">
+                    <label for="inpUppercase">Uppercase</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="inpLowercase">
+                    <label for="inpLowercase">Lowercase</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="inpNumbers">
+                    <label for="inpNumbers">Numbers</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="inpSymbols">
+                    <label for="inpSymbols">Symbols</label>
+                </div>
+            </div>
+        </form>
+    </div>
+    <!-- FORM END -->
+
+    <!-- GENERATE BUTTON BEGIN -->
+    <div>
+        <button type="button" id="genButton">Generate</button>
+    </div>
+    <!-- GENERATE BUTTON END -->
+
+    <script src="script.js"></script>
+    <script src="events.js"></script>
+</body>
+</html>
