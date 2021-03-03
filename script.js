@@ -30,6 +30,6 @@ function generatePassword() {
     var finalString = ""; 
     for (let i = 0; i < passLength; i++) {
         finalString += password.charAt(Math.floor(Math.random() * password.length));
-        document.getElementById("inpPassword").value = finalString;
     }
+    document.getElementById("inpPassword").value = finalString;
 }
