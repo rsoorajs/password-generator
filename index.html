@@ -11,14 +11,16 @@
     <title>Secure Password Generator</title>        
   </head>
   <body>
-
-	<!-- Password input begin -->
 	<div>
+    <!-- Input where the generated password will be displayed -->
 		<input type="text" id="inpPassword" placeholder="Your password will be displayed here...">
-    </div>
-    <!-- Password input end -->
 
-    <!-- Form begim -->
+    <!-- Button used to copy the password -->
+        <div>
+            <button type="button" id="copyButton">Copy</button>
+        </div>
+    </div>
+    <!-- Form begin -->
     <div>
 		<form id="optForm">
 			<h3>Customize your password</h3>
@@ -26,7 +28,7 @@
                 <label for="setLength">Password length</label>
                 <br>
                 <select id="setLength">
-			<option>8</option>
+			            <option>8</option>
                         <option>9</option>
                         <option>10</option>
                         <option>11</option>
@@ -43,7 +45,7 @@
                         <option>22</option>
                         <option>23</option>
                         <option>24</option>
-		        <option>25</option>
+		                <option>25</option>
                         <option>26</option>
                         <option>27</option>
                         <option>28</option>
@@ -73,7 +75,7 @@
             </div>
             <div class="listCheckbox">
                 <div>
-                    <input type="checkbox" id="inpUppercase">
+                    <input type="checkbox" id="inpUppercase" checked>
                     <label for="inpUppercase">Uppercase</label>
                 </div>
                 <div>
@@ -99,6 +101,12 @@
     </div>
     <!-- Generate button end -->
 	
+    <!-- Show passwords cronology button -->
+    <div>
+        <button type="button" id="cronologyButton">Show Cronology</button>
+    </div>
+    <!-- Show passwords cronology button end -->
+
 	<!-- JavaScript files -->
     <script src="script.js"></script>
     <script src="events.js"></script>
