@@ -1,4 +1,4 @@
-var passCronology = [];
+var passCronology = []; // Array
 
 // Function that generate a random password between 8 and 50 casual characters choosen by the user
 function generatePassword() {
