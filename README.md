@@ -14,8 +14,7 @@ IF YOU HAVE ANY IDEAS, DON'T HESITATE TO OPEN AN ISSUE!
 
 # WHERE IS THE CSS?!
 
-What the hell do you want from me?
-Do it yourself.
+Do it by yourself.
 
 # CREDITS
 
