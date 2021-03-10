@@ -12,6 +12,11 @@ At now it has only 3 functions: generate the password, copy it to the clipboard 
 
 IF YOU HAVE ANY IDEAS, DON'T HESITATE TO OPEN AN ISSUE!
 
+# WHERE IS THE CSS?!
+
+What the hell do you want from me?
+Do it yourself.
+
 # CREDITS
 
-Code: MattyDev2314
+Author: MattyDev2314
