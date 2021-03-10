@@ -68,17 +68,22 @@ function copyToClipboard() {
     }
 }
 
+// Function that show the history of all passwords generated (IMPORTANT: if you refresh the page, then you will lose all generated passwords) 
 function showHistory() {
-
+    
+    // Conditions
     if (passHistory == "") {
         alert("ERROR: \n\nGenerate at least one password.")
     }
     else {
         var strCron = "";
-
+        
+        // For loop
         for (let i = 0; i < passHistory.length; i++) {
             strCron = strCron + "<br>" + (i + 1)  + ") " + passHistory[i];    
         }  
+        
+        // Printing passwords history
         document.write("History: <br>" + strCron);
     }
 }
