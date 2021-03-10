@@ -8,7 +8,7 @@ At now it has only three functions: generate the password, copy it to the clipbo
 
 IF YOU HAVE ANY IDEAS, DON'T HESITATE TO OPEN AN ISSUE!
 
-# WHERE IS THE CSS?!
+# WHERE'S THE CSS?!
 
 Do it by yourself.
 
