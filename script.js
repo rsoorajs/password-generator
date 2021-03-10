@@ -1,4 +1,4 @@
-var passCronology = []; // Array
+var passHistory = []; // Array
 
 // Function that generate a random password between 8 and 50 casual characters choosen by the user
 function generatePassword() {
@@ -40,7 +40,7 @@ function generatePassword() {
     document.getElementById("inpPassword").value = finalString;  
     
     // Pushing passwords inside the array
-    passCronology.push(finalString);
+    passHistory.push(finalString);
 }
 
 // Function that copy the generated password to the clipboard
@@ -68,17 +68,17 @@ function copyToClipboard() {
     }
 }
 
-function showCronology() {
+function showHistory() {
 
-    if (passCronology == "") {
+    if (passHistory == "") {
         alert("ERROR: \n\nGenerate at least one password.")
     }
     else {
         var strCron = "";
 
-        for (let i = 0; i < passCronology.length; i++) {
-            strCron = strCron + "<br>" + (i + 1)  + ") " + passCronology[i];    
-        }   
-        document.write(strCron);
+        for (let i = 0; i < passHistory.length; i++) {
+            strCron = strCron + "<br>" + (i + 1)  + ") " + passHistory[i];    
+        }  
+        document.write("History: <br>" + strCron);
     }
 }
