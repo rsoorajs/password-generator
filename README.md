@@ -8,6 +8,6 @@ At now it has only three functions: generate the password, copy it to the clipbo
 
 #### IF YOU HAVE ANY IDEAS, DON'T HESITATE TO OPEN AN ISSUE!
 
-# CREDITS
+# COPYRIGHT
 
-Author: MattyDev2314
+## Copyright (C) 2021 - MattyDev2314
