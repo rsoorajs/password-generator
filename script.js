@@ -1,3 +1,4 @@
+
 /*  A simple password generator, written in JavaScript.
     Copyright (C) 2021  MattyDev2314
 
