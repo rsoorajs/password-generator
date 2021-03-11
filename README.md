@@ -10,4 +10,4 @@ At now it has only three functions: generate the password, copy it to the clipbo
 
 # COPYRIGHT
 
-## Copyright (C) 2021 - MattyDev2314
+Copyright (C) 2021 - MattyDev2314
