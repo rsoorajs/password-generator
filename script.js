@@ -48,6 +48,12 @@ function generatePassword() {
         password = password + specialChar;
     }
 
+    var setLen = document.getElementById("setLength").value;
+    
+    if (isNaN(setLen)) {
+        alert("ERROR: \n\nLength isNaN.")        
+    }
+
     // For loop that generates random values based on length and user-chosen checkboxes
     var finalString = ""; 
     for (let i = 0; i < passLength; i++) {
