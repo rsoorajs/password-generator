@@ -1,12 +1,25 @@
-# HOW IT WORKS?
+# ALGORITHM'S FUNCTIONING
 
-The algorithm is quite simple, it creates an empty string, in which it will add random characters based on the options and the length chosen by the user.
+This algorithm is quite simple, it creates an empty string, in which it will add random characters based on the options and the length chosen by the user.
 
-# WHAT FUNCTIONS DOES IT HAVE?
+# TEMPLATE STRUCTURE
 
-At now it has only three functions: generate the password, copy it to the clipboard and show the history of all generated passwords.
+The HTML page includes:
 
-#### IF YOU HAVE ANY IDEAS, DON'T HESITATE TO OPEN AN ISSUE!
+- input (where the password will be showed).
+- copy button.
+- form with a select for the password's length and four checkboxes to choose the characters to use.
+- generate button.
+- history button.
+
+# FUNCTIONS
+
+At now it has only three functions: it can generate random passwords, copy them to the clipboard and can also show the history of all generated passwords.
+
+### PLEASE NOTE: IF YOU REFRESH THE PAGE, YOU WILL LOSE ALL YOUR PASSWORDS GENERATED SO FAR.
+
+#### P.S. 
+#### IF YOU HAVE ANY IDEAS TO IMPLEMENT, DON'T HESITATE TO OPEN AN ISSUE!
 
 # COPYRIGHT
 
