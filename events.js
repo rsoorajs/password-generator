@@ -16,6 +16,11 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
 
+// Generate button event
 document.getElementById("genButton").addEventListener("click", generatePassword);
+
+// Copy button event
 document.getElementById("copyButton").addEventListener("click", copyToClipboard);
+
+// History button event
 document.getElementById("historyButton").addEventListener("click", showHistory);
