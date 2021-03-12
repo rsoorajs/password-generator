@@ -18,7 +18,7 @@
 
 var passHistory = []; // Array
 
-// Function that generate a random password between 8 and 50 casual characters choosen by the user
+// Function that generate a random password between 8 and 16 casual characters choosen by the user
 function generatePassword() {
 
     var passLength = document.getElementById("setLength").value;
@@ -76,7 +76,7 @@ function copyToClipboard() {
    
         // Selecting the text
         copyText.select();
-        copyText.setSelectionRange(0, 99999); // For mobile devices
+        copyText.setSelectionRange(0, 99999); 
 
         // Copying the text inside the input
         document.execCommand("copy");
@@ -86,7 +86,7 @@ function copyToClipboard() {
     }
 }
 
-// Function that show the history of all passwords generated (IMPORTANT: if you refresh the page, then you will lose all generated passwords) 
+// Function that show the history of all generated passwords
 function showHistory() {
     
     // Conditions
