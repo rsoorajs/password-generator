@@ -16,7 +16,7 @@ The HTML page includes:
 
 At now it has only three functions: it can generate random passwords, copy them to the clipboard and can also show the history of all generated passwords.
 
-### PLEASE NOTE: IF YOU REFRESH THE PAGE, YOU WILL LOSE ALL YOUR PASSWORDS GENERATED SO FAR.
+#### PLEASE NOTE: IF YOU REFRESH THE PAGE, YOU WILL LOSE ALL YOUR PASSWORDS GENERATED SO FAR.
 
 ________________________________________________________________________________________________________________
 
