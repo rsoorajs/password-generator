@@ -1,5 +1,6 @@
 
-/*  A simple password generator, written in JavaScript.
+/* 
+    A simple password generator, written in JavaScript.
     Copyright (C) 2021  MattyDev2314
 
     This program is free software: you can redistribute it and/or modify
