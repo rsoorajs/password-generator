@@ -12,6 +12,8 @@ The HTML page includes:
 - generate button.
 - history button.
 
+https://mattydev2314.altervista.org/images/passgentemplate.png
+
 # FUNCTIONS
 
 At now it has only three functions: it can generate random passwords, copy them to the clipboard and can also show the history of all generated passwords.
