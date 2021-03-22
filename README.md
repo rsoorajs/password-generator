@@ -22,10 +22,10 @@ ________________________________________________________________________________
 
 I FORGOT... IF YOU HAVE ANY IDEAS TO IMPLEMENT, DON'T HESITATE TO OPEN AN ISSUE, I WOULD APPRECIATE IT!
 
-# LANGUAGES
+# LANGUAGES USED
 
-- JavaScript
 - HTML
+- JavaScript
 
 # COPYRIGHT
 
