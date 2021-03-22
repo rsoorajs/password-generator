@@ -22,6 +22,11 @@ ________________________________________________________________________________
 
 I FORGOT... IF YOU HAVE ANY IDEAS TO IMPLEMENT, DON'T HESITATE TO OPEN AN ISSUE, I WOULD APPRECIATE IT!
 
+# LANGUAGES
+
+- JavaScript
+- HTML
+
 # COPYRIGHT
 
 Copyright © 2021 - MattyDev2314
