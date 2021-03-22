@@ -12,7 +12,7 @@ The HTML page includes:
 - generate button.
 - history button.
 
-<img src="http://mattydev2314.altervista.org/images/passgentemplate.PNG" width="50%" height="50%">
+<img src="http://mattydev2314.altervista.org/images/passgentemplate.PNG" width="70%" height="70%">
 
 # FUNCTIONS
 
