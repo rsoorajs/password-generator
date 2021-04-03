@@ -22,10 +22,6 @@ At now it has only three functions: it can generate random passwords, copy them 
 
 ### PLEASE NOTE: IF YOU REFRESH THE PAGE, YOU WILL LOSE ALL YOUR PASSWORDS GENERATED SO FAR.
 
-________________________________________________________________________________________________________________
-
-IF YOU HAVE ANY IDEAS TO IMPLEMENT, DON'T HESITATE TO OPEN AN ISSUE, I WOULD APPRECIATE IT!
-
 # COPYRIGHT
 
 Copyright © 2021 - MattyDev2314
