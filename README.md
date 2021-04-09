@@ -8,7 +8,7 @@ The web page includes:
 - Generate button.
 - History button.
 
-### ONLINE DEMO:
+### Online Demo
 
 https://mattydev2314.altervista.org/passgentemplate/
 
