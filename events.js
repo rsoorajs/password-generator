@@ -1,5 +1,5 @@
 
-/*  A simple password generator, written in JavaScript.
+/*  
     Copyright (C) 2021  MattyDev2314
 
     This program is free software: you can redistribute it and/or modify
@@ -16,11 +16,7 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
 
-// Generate button event
+
 document.getElementById("genButton").addEventListener("click", generatePassword);
-
-// Copy button event
 document.getElementById("copyButton").addEventListener("click", copyToClipboard);
-
-// History button event
 document.getElementById("historyButton").addEventListener("click", showHistory);
