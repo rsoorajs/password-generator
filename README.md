@@ -1,6 +1,6 @@
 # TEMPLATE STRUCTURE
 
-The HTML page includes:
+The web page includes:
 
 - Input (where the password will be showed).
 - Copy button.
