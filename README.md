@@ -3,10 +3,8 @@
 The web page includes:
 
 - Input (where the password will be showed).
-- Copy button.
-- Form with a select for the password's length and four checkboxes to choose the characters to use.
-- Generate button.
-- History button.
+- Select for the password's length and checkboxes to choose the characters.
+- Generate, Copy and History buttons.
 
 ### Online Demo
 
