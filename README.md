@@ -8,7 +8,7 @@ The web page includes:
 
 ### Online Demo
 
-https://mattydev2314.altervista.org/templates/passwordgenerator/index.html
+https://mattydev2314.altervista.org/templates/passwordgenerator
 
 # License
 
