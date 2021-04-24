@@ -1,4 +1,4 @@
-# TEMPLATE STRUCTURE
+# Template Structure
 
 The web page includes:
 
@@ -10,6 +10,7 @@ The web page includes:
 
 https://mattydev2314.altervista.org/templates/passwordgenerator/index.html
 
-# COPYRIGHT
+# License
 
+Under the terms of the GNU Affero General Public License (AGPL-3.0).<br>
 Copyright © 2021 - MattyDev2314
